@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishchit-Dev
 - 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning RESTfull service 
+- 🌱 I’m currently learning Node js to build RESTfull service 
 - 💞️ I’m looking to collaborate on any project or any startup company
 
 <!---
