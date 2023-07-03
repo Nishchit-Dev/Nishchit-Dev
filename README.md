@@ -2,7 +2,7 @@ About Me 👋
 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here! Let me take a moment to introduce myself and share my areas of expertise. 🚀
 
 Who am I? 🤔
-I am a passionate and skilled developer with a strong background in JavaScript (JS) and TypeScript (TS) programming languages. I have experience in various technologies such as blockchain development, MongoDB, Express.js, Node.js, React, Next.js, ether.js, and Solidity. 💻
+I am a passionate and skilled developer with a strong background in JavaScript (JS) programming language. I have experience in various technologies such as blockchain development, MongoDB, Express.js, Node.js, React, Next.js, ether.js, and Solidity. 💻
 
 My Journey 🌟
 I started my coding journey by exploring the world of web development. Over time, my curiosity led me to delve deeper into blockchain technology, where I discovered the incredible potential it holds. Since then, I have been actively developing decentralized applications (DApps) using Solidity and other related technologies. 🌐
