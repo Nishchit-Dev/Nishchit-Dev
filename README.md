@@ -29,6 +29,7 @@
 
 | Project | What it does |
 |---------|---------------|
+| **[CardboardAI](https://trycardboardai.vercel.app/)** | Figma for Thinking with AI 🎯|
 | **[Pomogo](https://pomogo.app/)** | A gamified Pomodoro app with streaks, badges & ranks 🎯 |
 | **[SpeedScript](https://speedscript.app/)** | Multiplayer typing platform with profiles, heatmaps & real-time races ⌨️⚡ |
 | **[LovableLabs](https://github.com/Nishchit-Dev/LovableLabs)** | Open-source UI component library for building beautiful apps 🧩 |
