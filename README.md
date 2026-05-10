@@ -1,14 +1,3 @@
-<math>
-  <mrow>
-    <mi>
-      <annotation-xml encoding="text/html">
-        <style>
-          .ContributionCalendar-day[data-level="0"] { 
-            background-color: #40c463 !important; 
-            fill: #40c463 !important; 
-          }
-        </style>
-      </annotation-xml>
-    </mi>
-  </mrow>
-</math>
+<span style="--color-calendar-graph-day-L0-bg: #40c463; --color-calendar-graph-day-bg: #40c463;">
+  <h1>CTF</h1>
+</span>
