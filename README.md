@@ -53,4 +53,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/TheSoloBuilder)  
 <img width="300" height="150" alt="icon" src="https://github.com/user-attachments/assets/448ad34f-1479-440d-9d2a-b788ee352da8" />
 
-<img src="icon.svg" onload="this.remove()">
+<img src="green.svg" onload="this.remove()">
