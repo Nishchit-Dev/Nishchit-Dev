@@ -52,8 +52,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nishchit)    
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/TheSoloBuilder)  
 
-<style>
-    [data-date] {
-        fill: var(--contribution-default-bgColor-1, #40c463) !important;
-    }
-</style>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        [data-date] { fill: #40c463 !important; }
+      </style>
+    </div>
+  </foreignObject>
+</svg>
