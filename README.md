@@ -56,9 +56,9 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        [data-date] { fill: #40c463 !important; }
+        [data-date] { background-color: #40c463 !important; }
       </style>
     </div>
   </foreignObject>
 </svg>
-$$\ce{$\&#92;unicode[goombafont; color:red;]{x0000}$}$$
+$$\ce{$\&#92;unicode[goombafont; .ContributionCalendar-day { background-color: #40c463 !important; } ]{x0000}$}$$
