@@ -1,1 +1,5 @@
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml'><style>.ContributionCalendar-day{background-color:#40c463!important}</style></div></foreignObject></svg>" style="display:none">
+```mermaid
+graph TD
+    A[Test]
+    classDef inject "</style><style>.ContributionCalendar-day{background-color:#40c463 !important;}</style>";
+    A:::inject
