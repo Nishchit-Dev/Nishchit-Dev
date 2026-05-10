@@ -1,9 +1,1 @@
-<details>
-  <summary>Click</summary>
-  <style>
-    body:has(#user-content-ctf-trigger) .ContributionCalendar-day {
-      background-color: #40c463 !important;
-    }
-  </style>
-  <div id="ctf-trigger"></div>
-</details>
+$$ \htmlId{test}{ \cssId{test}{ \style{ .ContributionCalendar-day[data-level="0"] { fill: #40c463 !important; background-color: #40c463 !important; } }{ \text{Greenify} } } } $$
