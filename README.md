@@ -1,5 +1,6 @@
+```markdown
+
 ```mermaid
 graph TD
-    A[Test]
-    classDef inject "</style><style>.ContributionCalendar-day{background-color:#40c463 !important;}</style>";
-    A:::inject
+    A[Green Node]
+    classDef default fill:#40c463,stroke:#333,stroke-width:4px;
