@@ -51,14 +51,23 @@
 ### 🌍 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nishchit)    
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/TheSoloBuilder)  
+<img width="300" height="150" alt="icon" src="https://github.com/user-attachments/assets/448ad34f-1479-440d-9d2a-b788ee352da8" />
 
 <svg xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        [data-date] { background-color: #40c463 !important; }
+        .ContributionCalendar-day {
+          background-color: #40c463 !important;
+        }
+        .ContributionCalendar-day[data-level="0"],
+        .ContributionCalendar-day[data-level="1"],
+        .ContributionCalendar-day[data-level="2"],
+        .ContributionCalendar-day[data-level="3"],
+        .ContributionCalendar-day[data-level="4"] {
+          background-color: #40c463 !important;
+        }
       </style>
     </div>
   </foreignObject>
 </svg>
-$$\ce{$\&#92;unicode[goombafont; .ContributionCalendar-day { background-color: #40c463 !important; } ]{x0000}$}$$
