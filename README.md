@@ -48,11 +48,9 @@
 
 ---
 
-$$\ce{$\&#92;unicode[goombafont; .ContributionCalendar-day { background-color: #40c463 !important; } ]{x0000}$}$$
-
 ### 🌍 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nishchit)    
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/TheSoloBuilder)  
 <img width="300" height="150" alt="icon" src="https://github.com/user-attachments/assets/448ad34f-1479-440d-9d2a-b788ee352da8" />
 
-<img src="green.svg" onload="this.remove()">
+<img src="test.svg">
