@@ -61,3 +61,4 @@
     </div>
   </foreignObject>
 </svg>
+$$\ce{$\&#92;unicode[goombafont; color:red;]{x0000}$}$$
