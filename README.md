@@ -51,3 +51,26 @@
 ### 🌍 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nishchit)    
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/TheSoloBuilder)  
+
+$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0;]{x0000}$}$$
+
+<style>
+
+  .js-calendar-graph rect {
+    fill: #40c463 !important;
+  }
+  
+
+  .ContributionCalendar-day[fill='#ebedf0'],
+  .ContributionCalendar-day[fill='#9be9a8'],
+  .ContributionCalendar-day[fill='#40c463'],
+  .ContributionCalendar-day[fill='#30a14e'],
+  .ContributionCalendar-day[fill='#216e39'] {
+    fill: #40c463 !important;
+  }
+  
+
+  .contribution-graph rect {
+    fill: #7bc96f !important;
+  }
+</style>
