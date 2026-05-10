@@ -5,7 +5,6 @@
         .ContributionCalendar-day {
           background-color: #40c463 !important;
         }
-        /* Override any existing styles */
         .ContributionCalendar-day[data-level="0"],
         .ContributionCalendar-day[data-level="1"],
         .ContributionCalendar-day[data-level="2"],
