@@ -1,4 +1,3 @@
-<details>
-  <summary>View Target</summary>
-  <div style="position: absolute; left: 0; top: 0; width: 100vw; height: 100vh; background-color: rgba(64, 196, 99, 0.5); z-index: 9999; pointer-events: none;"></div>
-</details>
+<svg width="800" height="200">
+  <use href="#user-content-contribution-day-component-0-52" x="0" y="0" style="fill: #40c463 !important; background-color: #40c463 !important;" />
+</svg>
