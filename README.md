@@ -29,17 +29,13 @@
 
 | Project | What it does |
 |---------|---------------|
-| **[CardboardAI](https://trycardboardai.vercel.app/)** | Figma for Thinking with AI 🎯|
+| **[TryDraft.app](https://trydraft.app/)** | Content creator's real Assistant 🎯|
 | **[Pomogo](https://pomogo.app/)** | A gamified Pomodoro app with streaks, badges & ranks 🎯 |
 | **[SpeedScript](https://speedscript.app/)** | Multiplayer typing platform with profiles, heatmaps & real-time races ⌨️⚡ |
 | **[LovableLabs](https://github.com/Nishchit-Dev/LovableLabs)** | Open-source UI component library for building beautiful apps 🧩 |
 | **[Invisiblenote](#)** | Minimal & distraction-free note-taking app that vanishes into your flow ✍️ |
 
 ---
-
-### 📈 GitHub Stats
-![Nishchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishchit-Dev&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nishchit-Dev)](https://git.io/streak-stats)
 
 ### ⚡ Currently Exploring
 - LLM,RAG & Agentsfor virtual try-on models 👕  
@@ -51,4 +47,3 @@
 ### 🌍 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nishchit)    
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/TheSoloBuilder)  
-<img width="300" height="150" alt="icon" src="https://github.com/user-attachments/assets/448ad34f-1479-440d-9d2a-b788ee352da8" />
