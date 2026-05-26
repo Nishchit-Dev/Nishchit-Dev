@@ -30,6 +30,7 @@
 | Project | What it does |
 |---------|---------------|
 | **[TryDraft.app](https://trydraft.app/)** | Content creator's real Assistant 🎯|
+| **[Super-Sender]** | ⚡Super-Sender send out 10k emails while you enjoy your coffee |
 | **[Pomogo](https://pomogo.app/)** | A gamified Pomodoro app with streaks, badges & ranks 🎯 |
 | **[SpeedScript](https://speedscript.app/)** | Multiplayer typing platform with profiles, heatmaps & real-time races ⌨️⚡ |
 | **[LovableLabs](https://github.com/Nishchit-Dev/LovableLabs)** | Open-source UI component library for building beautiful apps 🧩 |
