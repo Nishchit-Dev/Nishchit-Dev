@@ -29,6 +29,7 @@
 
 | Project | What it does |
 |---------|---------------|
+| **[BuildTheSystem.xyz](https://BuildTheSystem.xyz/)** | Helping to Learn System Design using 1:1 with AI 🎯|
 | **[TryDraft.app](https://trydraft.app/)** | Content creator's real Assistant 🎯|
 | **[Super-Sender](https://supsend.app)** | ⚡Super-Sender send out 10k emails while you enjoy your coffee |
 | **[Pomogo](https://pomogo.app/)** | A gamified Pomodoro app with streaks, badges & ranks 🎯 |
